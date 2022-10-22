@@ -27,12 +27,12 @@ h1{
 }
 main h1 span{
 	position: absolute;
-    background: rgb(182, 181, 181);
-    height: 100%;
-    width: 3px;
-    right: 3px;
-    opacity: 1;
-    animation: piler .6s ease-in-out infinite;
+	background: rgb(182, 181, 181);
+	height: 100%;
+	width: 3px;
+	right: 3px;
+	opacity: 1;
+	animation: piler .6s ease-in-out infinite;
 }
 
 @keyframes piler {
