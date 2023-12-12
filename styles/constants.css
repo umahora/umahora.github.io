@@ -1,0 +1,15 @@
+:root {
+
+    --borderRadius-default: 5px;
+    --brutalism-light-blue: #7df9ff;
+    --brutalism-green: #2fff2f;
+    --brutalism-light-green: #98e076;
+    --brutalism-blue: #3300ff;
+    --brutalism-yellow: #ffff00;
+    --brutalism-orange: #ff4911;
+    --brutalism-orange-lt: #ed7854;
+    
+    --padding-main: 1px;
+    --padding-header: 1px 1px 0px 1px;
+    --padding-footer: 0px 1px 1px 1px;
+}
